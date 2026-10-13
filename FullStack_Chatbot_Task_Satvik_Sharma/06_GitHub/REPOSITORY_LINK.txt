@@ -1,0 +1,7 @@
+GitHub Repository Link:
+https://github.com/sharmasatvik159-pixel/Full-Stack-Lead-AI-Assistant-Chatbot.git
+
+Repository Name: Full-Stack-Lead-AI-Assistant-Chatbot
+Developer: Satvik Sharma (sharmasatvik159@gmail.com)
+Tech Stack: React.js, TypeScript, Node.js, Express, SQLite, REST API
+Evaluation Context: IPAGE Group Practical Technical Assignment (DroneTV.in Lead Assistant)

@@ -1,0 +1,40 @@
+# Dependencies
+**/node_modules/
+node_modules/
+.pnp
+.pnp.js
+
+# Production builds
+**/dist/
+dist/
+build/
+.output/
+
+# Environment files (exclude secrets, preserve .env.example)
+**/.env
+.env
+.env.local
+.env.production
+!.env.example
+!**/.env.example
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# SQLite temp files
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# System generated
+.system_generated/
